@@ -1,9 +1,0 @@
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\bin\Debug\netcoreapp3.1\Account.Infrastructure.deps.json
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\bin\Debug\netcoreapp3.1\Account.Infrastructure.dll
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\bin\Debug\netcoreapp3.1\Account.Infrastructure.pdb
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.csprojAssemblyReference.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.AssemblyInfo.cs
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.dll
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Infrastructure\obj\Debug\netcoreapp3.1\Account.Infrastructure.pdb

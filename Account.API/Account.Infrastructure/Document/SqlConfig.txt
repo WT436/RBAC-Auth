@@ -1,1 +1,4 @@
-﻿Scaffold-DbContext "Server=.;Database=AuthorizationDB;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir DBContext2
+﻿Cài đặt : 
+		
+
+Scaffold-DbContext "Server=.;Database=OAuthDB;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir DBContext

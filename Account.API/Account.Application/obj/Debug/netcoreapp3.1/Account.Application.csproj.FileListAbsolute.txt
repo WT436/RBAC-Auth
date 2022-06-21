@@ -1,9 +1,0 @@
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\bin\Debug\netcoreapp3.1\Account.Application.deps.json
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\bin\Debug\netcoreapp3.1\Account.Application.dll
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\bin\Debug\netcoreapp3.1\Account.Application.pdb
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.csprojAssemblyReference.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.AssemblyInfoInputs.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.AssemblyInfo.cs
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.csproj.CoreCompileInputs.cache
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.dll
-C:\Users\WT436\Desktop\RBAC-Auth\Account.API\Account.Application\obj\Debug\netcoreapp3.1\Account.Application.pdb
