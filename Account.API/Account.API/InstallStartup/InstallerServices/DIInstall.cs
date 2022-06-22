@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Utils.Auth;
 using Utils.Cache;
 using Utils.Email;
+using Utils.WriteLogExtention.Application;
 
 #endregion
 
@@ -22,6 +23,7 @@ namespace Account.API.InstallStartup.InstallerServices
             services.AddTransient<IJwtHandler, JwtHandler>();
             services.AddTransient<IMailService, MailService>();
             services.AddSingleton<ICacheBase, CacheMemoryHelper>();
+            services.AddSingleton<ILog4NetManager, Log4NetManager>();
             #endregion
           
         }

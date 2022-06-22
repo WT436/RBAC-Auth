@@ -1,16 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-#nullable disable
-
 namespace Account.Domain.Shared.Entitys
 {
     public partial class Group
     {
         public Group()
         {
-            SubjectGroups = new HashSet<SubjectGroup>();
-            Subjects = new HashSet<Subject>();
+            Subject = new HashSet<Subject>();
+            SubjectGroup = new HashSet<SubjectGroup>();
         }
 
         public int Id { get; set; }
@@ -28,7 +26,7 @@ namespace Account.Domain.Shared.Entitys
         public int UpdateBy { get; set; }
         public DateTime UpdatedOnUtc { get; set; }
 
-        public virtual ICollection<SubjectGroup> SubjectGroups { get; set; }
-        public virtual ICollection<Subject> Subjects { get; set; }
+        public virtual ICollection<Subject> Subject { get; set; }
+        public virtual ICollection<SubjectGroup> SubjectGroup { get; set; }
     }
 }

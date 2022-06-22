@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-#nullable disable
-
 namespace Account.Domain.Shared.Entitys
 {
     public partial class UserIp
@@ -20,8 +18,8 @@ namespace Account.Domain.Shared.Entitys
         public string UserAgent { get; set; }
         public int AccountId { get; set; }
         public int UpdateAcount { get; set; }
-        public bool IsActive { get; set; }
-        public bool IsDelete { get; set; }
+        public bool IsActived { get; set; }
+        public bool IsDeleted { get; set; }
         public int CreateBy { get; set; }
         public DateTime CreatedOnUtc { get; set; }
         public int UpdateBy { get; set; }

@@ -34,6 +34,7 @@ namespace Account.API.InstallStartup.InstallerServices
                 op.Filters.Add(new ExcutionTimeFilterAttribute());
                 op.Filters.Add(new ModelValidationFilterAttribute());
                 op.Filters.Add(new GetAccountIdActionFilter());
+                op.Filters.Add(new GateActionFilter());
                 //ExceptionFilter
                 op.Filters.Add(new ProcessExceptionFilterAttribute());
             });

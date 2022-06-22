@@ -8,4 +8,8 @@
     <Folder Include="Service\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Account.Domain\Account.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

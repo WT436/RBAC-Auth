@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-#nullable disable
-
 namespace Account.Domain.Shared.Entitys
 {
     public partial class HistoryTable
